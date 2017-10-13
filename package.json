@@ -1,0 +1,14 @@
+{
+  "name": "karma-fakerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mvdenk/karma-fakerator.git",
+  "bugs": {
+    "url": "https://github.com/mvdenk/karma-fakerator/issues"
+  },
+  "author": "Martijn van den Enk",
+  "license": "MIT",
+  "dependencies": {
+    "fakerator": "^0.3.0"
+  }
+}
